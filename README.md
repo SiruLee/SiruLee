@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **SiruLee/SiruLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+{
+	id: "SiruLee",
+	education: [
+      "University of Toronto",
+      "Computer Science",
+      "Physics"
+  ]
+  specialty: [
+      "Artificial Intelligence",
+      "Quantum Physics"
+  ]
+}
+```
+
+### Algorithmic Problem Solving 🤔
+#### solved.ac
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirulee5208)](https://solved.ac/profile/sirulee5208)
+#### Codeforces
+[![solved.ac Profile](https://cf.leed.at/?id=jhlee520801)](https://codeforces.com/profile/jhlee520801)
+
+
+## Links 📫
+* <b>Homepage: </b> [sirulee.github.io](https://sirulee.github.io)
+
+---
+![My Profile View Count](https://komarev.com/ghpvc/?username=nnnlog&style=flat-square&color=grey) 
+
