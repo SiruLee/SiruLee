@@ -32,10 +32,12 @@ Here are some ideas to get you started:
 
 ### Algorithmic Problem Solving 🤔
 #### solved.ac
-[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirulee5208)](https://solved.ac/profile/sirulee5208)
-#### Codeforces
-[![CodeForces Profile](https://cf.leed.at?id={jhlee520801})](https://codeforces.com/profile/{jhlee520801})
 
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirulee5208)](https://solved.ac/profile/sirulee5208)
+
+#### Codeforces
+
+[![CodeForces Profile](https://cf.leed.at?id=jhlee520801)](https://codeforces.com/profile/jhlee520801)
 
 ## Links 📫
 * <b>Homepage: </b> [sirulee.github.io](https://sirulee.github.io)
