@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ```js
 {
-	id: "SiruLee",
-	education: [
-      "University of Toronto",
-      "Computer Science",
-      "Physics"
-  ]
-  specialty: [
-      "Artificial Intelligence",
-      "Quantum Physics"
-  ]
+    id: "SiruLee",
+    education: [
+        "University of Toronto",
+        "Computer Science",
+        "Physics"
+    ],
+    specialty: [
+        "Artificial Intelligence",
+        "Quantum Physics"
+    ]
 }
 ```
 
