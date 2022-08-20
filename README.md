@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 * <b>Homepage: </b> [sirulee.github.io](https://sirulee.github.io)
 
 ---
-![My Profile View Count](https://komarev.com/ghpvc/?username=nnnlog&style=flat-square&color=grey) 
+![My Profile View Count](https://komarev.com/ghpvc/?username=SiruLee&style=flat-square&color=grey) 
 
