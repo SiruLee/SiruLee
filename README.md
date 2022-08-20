@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 #### solved.ac
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirulee5208)](https://solved.ac/profile/sirulee5208)
 #### Codeforces
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+[![CodeForces Profile](https://cf.leed.at?id={jhlee520801})](https://codeforces.com/profile/{jhlee520801})
 
 
 ## Links 📫
